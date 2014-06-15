@@ -1,4 +1,5 @@
 sGc
 ===
 
-Small Games/Clones
+Small Games/Clones made by timed.
+Made mostly for coding practise.
